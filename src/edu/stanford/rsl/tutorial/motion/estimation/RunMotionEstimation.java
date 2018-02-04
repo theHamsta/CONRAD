@@ -165,6 +165,6 @@ public class RunMotionEstimation {
 
 }
 /*
- * Copyright (C) 2010-2014 Marco B�gel
+ * Copyright (C) 2010-2014 Marco Bögel
  * CONRAD is developed as an Open Source project under the GNU General Public License (GPL).
 */
